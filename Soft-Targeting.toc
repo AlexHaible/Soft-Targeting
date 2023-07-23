@@ -1,0 +1,14 @@
+## Interface: 100105
+## Title: Soft Targeting
+## Notes: Sets the soft-target range based on class and spec.
+## Author: Sauravisus
+## Version: 1.0.0
+## X-Curse-Project-ID: 892400
+## SavedVariables: SoftTargetingDB
+## OptionalDeps: Ace3
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Soft-Targeting.lua
