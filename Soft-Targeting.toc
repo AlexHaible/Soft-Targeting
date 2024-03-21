@@ -1,8 +1,8 @@
-## Interface: 100205
+## Interface: 100206
 ## Title: Soft Targeting
 ## Notes: Sets the soft-target range based on class and spec.
 ## Author: Sauravisus
-## Version: 1.0.2
+## Version: 1.0.3
 ## X-Curse-Project-ID: 892627
 ## SavedVariables: SoftTargetingDB
 ## OptionalDeps: Ace3
