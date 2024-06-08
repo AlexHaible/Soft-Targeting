@@ -1,14 +1,23 @@
-## Interface: 100207
+## Interface: 100207, 110000
 ## Title: Soft Targeting
 ## Notes: Sets the soft-target range based on class and spec.
-## Author: Sauravisus
-## Version: 1.0.3
+## Author: Sauravisus (Xerastrasza - Magtheridon EU, Horde)
+## Version: @project-version@
+## X-Date: @project-date-iso@
 ## X-Curse-Project-ID: 892627
 ## SavedVariables: SoftTargetingDB
 ## OptionalDeps: Ace3
+
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
 
 #@no-lib-strip@
 embeds.xml
 #@end-no-lib-strip@
 
 Soft-Targeting.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@

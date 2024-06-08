@@ -1,3 +1,5 @@
 package-as: Soft-Targeting
+enable-toc-creation: yes
+enable-nolib-creation: no
 
 license-output: LICENSE.txt
