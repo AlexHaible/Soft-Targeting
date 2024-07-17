@@ -1,4 +1,4 @@
-## Interface: 100207, 110000
+## Interface: 100207, 110000, 110002
 ## Title: Soft Targeting
 ## Notes: Sets the soft-target range based on class and spec.
 ## Author: Sauravisus (Xerastrasza - Magtheridon EU, Horde)
