@@ -1,4 +1,4 @@
-## Interface: 110200, 110107
+## Interface: 110200, 110205
 
 ## Title: Soft Targeting
 ## Notes: Sets the soft-target range based on class and spec.
